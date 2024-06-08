@@ -44,6 +44,7 @@
 - 🎨 I enjoy painting landscapes in my free time.
 
 ---
+<!---
 
 **🔗 Connect with Me**
 
@@ -53,7 +54,7 @@
 [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
-<!---
+
 
 **💡 Projects & Works**
 
