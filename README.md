@@ -30,7 +30,7 @@
 **📊 GitHub Stats**
 
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalaneesha&layout=compact&theme=nord)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushalaneesha&show_icons=true&layout=compact&theme=nord)
+<!--![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushalaneesha&show_icons=true&layout=compact&theme=nord)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalaneesha&layout=compact&theme=nord)
 
 ---
