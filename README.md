@@ -29,33 +29,28 @@
 
 **📊 GitHub Stats**
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushalaneesha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalaneesha&layout=compact&theme=radical)
 
 ---
 
 **🔍 Fun Facts**
 
-- 🌐 I've traveled to 10+ countries and counting!
-- 🍕 I can never say no to a slice of pizza.
-- 🐾 My dog can do 5 cool tricks. Ask me about them!
-- 📚 When I'm not coding, I love reading sci-fi novels.
-- 🎨 I enjoy painting landscapes in my free time.
+- 📚 When I'm not coding, I do crafts with my 3-year-old.
+- 🍳 I love to cook and try new recipes.
 
 ---
-<!---
 
 **🔗 Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesha-kaushal/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/kaushalaneesha)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/aneesha.kaushal)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF7139?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aneeshakaushal/)
 
 ---
 
-
+<!---
 **💡 Projects & Works**
 
 - 📊 **[Project Name](https://github.com/yourusername/projectname)**: Brief description of the project.
@@ -67,6 +62,3 @@
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about data, dogs, or anything in between!
 
----
-
-*Created with ❤️ by [Your Name]*
